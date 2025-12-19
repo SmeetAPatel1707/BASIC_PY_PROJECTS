@@ -90,5 +90,3 @@ Manual execution of repetitive digital tasks can be time-consuming. This project
 7. Respond using speech output and/or GUI  
 
 ---
-
-## 📂 Project Structure
